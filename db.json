@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is feedback 1 coming from fake backend."
+    },
+    {
+      "id": 2,
+      "rating": 6,
+      "text": "This is feedback 2 coming from fake backend."
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "This is feedback 3 coming from fake backend."
+    },
+    {
+      "text": "this is the test copy ss",
+      "rating": 4,
+      "id": 4
+    }
+  ]
+}
